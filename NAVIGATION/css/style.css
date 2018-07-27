@@ -1,0 +1,22 @@
+ul{
+    position: fixed;
+}
+li{
+    float: left;
+    list-style-type: none;
+   
+}
+a{
+    padding: 10px;
+}
+.divisions{
+    height: 100vh;
+    padding-top: 20vh;
+}
+body{
+ background:violet;
+}
+a:hover{
+    background-color:red;
+}
+
